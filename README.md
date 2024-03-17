@@ -22,30 +22,63 @@ I'm Aviral Singh, a MERN Stack Developer with a passion for learning and problem
 
 ## :mortar_board: Projects
 
-### Task Manager App
-
-A comprehensive task manager application built using React.js and MongoDB. This app allows users to organize their tasks efficiently and track progress effortlessly.
-
-- [Live Demo](https://task-manager-app.com)
-- [GitHub Repository](https://github.com/yourusername/task-manager-app)
-
-### Realtime Chat App
-
-An interactive realtime chat application developed with React.js and Socket.io. Users can engage in real-time conversations with friends and colleagues seamlessly.
-
-- [Live Demo](https://realtime-chat-app.com)
-- [GitHub Repository](https://github.com/yourusername/realtime-chat-app)
-
-### Todo Web App
-
-A simple yet effective todo web application created with Next.js and PostgreSQL. Users can manage their daily tasks with ease and stay organized.
-
-- [Live Demo](https://todo-web-app.com)
-- [GitHub Repository](https://github.com/yourusername/todo-web-app)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://task-manager-app.com"><img src="https://yourwebsite.com/task-manager-app-thumbnail.png" alt="Task Manager App" width="200"></a>
+      </td>
+      <td align="center">
+        <a href="https://realtime-chat-app.com"><img src="https://yourwebsite.com/realtime-chat-app-thumbnail.png" alt="Realtime Chat App" width="200"></a>
+      </td>
+      <td align="center">
+        <a href="https://todo-web-app.com"><img src="https://yourwebsite.com/todo-web-app-thumbnail.png" alt="Todo Web App" width="200"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Task Manager App</b><br>
+        Comprehensive task manager application built using React.js and MongoDB.
+      </td>
+      <td align="center">
+        <b>Realtime Chat App</b><br>
+        Interactive realtime chat application developed with React.js and Socket.io.
+      </td>
+      <td align="center">
+        <b>Todo Web App</b><br>
+        Simple yet effective todo web application created with Next.js and PostgreSQL.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/yourusername/task-manager-app">GitHub</a> | <a href="https://task-manager-app.com">Live Demo</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yourusername/realtime-chat-app">GitHub</a> | <a href="https://realtime-chat-app.com">Live Demo</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yourusername/todo-web-app">GitHub</a> | <a href="https://todo-web-app.com">Live Demo</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## :bulb: Why Work With Me?
 
 I'm not just a developer; I'm a problem solver dedicated to helping you achieve your goals. With a strong commitment to learning and a proactive approach to finding solutions, I strive to deliver high-quality work that exceeds expectations. Let's collaborate and turn your ideas into reality!
+
+## :art: Skills and Technologies
+
+<div align="center">
+  <img src="https://yourwebsite.com/react-icon.png" alt="React.js" title="React.js" width="50">
+  <img src="https://yourwebsite.com/nextjs-icon.png" alt="Next.js" title="Next.js" width="50">
+  <img src="https://yourwebsite.com/mongodb-icon.png" alt="MongoDB" title="MongoDB" width="50">
+  <img src="https://yourwebsite.com/postgresql-icon.png" alt="PostgreSQL" title="PostgreSQL" width="50">
+  <img src="https://yourwebsite.com/prisma-icon.png" alt="Prisma" title="Prisma" width="50">
+  <img src="https://yourwebsite.com/tailwindcss-icon.png" alt="Tailwind CSS" title="Tailwind CSS" width="50">
+  <img src="https://yourwebsite.com/javascript-icon.png" alt="JavaScript" title="JavaScript" width="50">
+  <img src="https://yourwebsite.com/typescript-icon.png" alt="TypeScript" title="TypeScript" width="50">
+</div>
 
 ## :mailbox: Get in Touch
 
