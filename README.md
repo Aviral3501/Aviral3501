@@ -9,10 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/AviralSinghF20"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/AviralSinghF20"><img src="https://img.shields.io/twitter/follow/AviralSinghF20?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/aviral-singh-bb5b45199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="mailto:aviralsingh3501@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
 </p>
+<div align="center">
+   :computer: Porfolio Website  -> 
+https://aviralsinghportfolio.onrender.com/
+</div>
 
 ---
 
