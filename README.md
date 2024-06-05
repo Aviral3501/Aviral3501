@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://yourwebsite.com/aviral-singh-avatar.png" alt="Aviral Singh Avatar" width="200">
-</div>
 
 <h1 align="center">Hi there, I'm Aviral Singh 👋</h1>
 
@@ -74,19 +71,19 @@ I'm not just a developer; I'm a problem solver dedicated to helping you achieve 
 ## :art: Skills and Technologies
 
 <div align="center">
-  <img src="https://yourwebsite.com/react-icon.png" alt="React.js" title="React.js" width="50">
-  <img src="https://yourwebsite.com/nextjs-icon.png" alt="Next.js" title="Next.js" width="50">
-  <img src="https://yourwebsite.com/mongodb-icon.png" alt="MongoDB" title="MongoDB" width="50">
-  <img src="https://yourwebsite.com/postgresql-icon.png" alt="PostgreSQL" title="PostgreSQL" width="50">
-  <img src="https://yourwebsite.com/prisma-icon.png" alt="Prisma" title="Prisma" width="50">
-  <img src="https://yourwebsite.com/tailwindcss-icon.png" alt="Tailwind CSS" title="Tailwind CSS" width="50">
-  <img src="https://yourwebsite.com/javascript-icon.png" alt="JavaScript" title="JavaScript" width="50">
-  <img src="https://yourwebsite.com/typescript-icon.png" alt="TypeScript" title="TypeScript" width="50">
+  <img src="/react.svg" alt="React.js" title="React.js" width="50">
+  <img src="/nextjs-icon-svgrepo-com.svg" alt="Next.js" title="Next.js" width="50">
+  <img src="/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="50">
+  <img src="postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" title="PostgreSQL" width="50">
+  <img src="/prisma-svgrepo-com.svg" alt="Prisma" title="Prisma" width="50">
+  <img src="/tailwind-css-svgrepo-com.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50">
+  <img src="/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript" width="50">
+  <img src="/react.svg" alt="TypeScript" title="TypeScript" width="50">
 </div>
 
 ## :mailbox: Get in Touch
 
-Have a project idea or need assistance with your development tasks? Feel free to reach out via email at [youremail@example.com](mailto:youremail@example.com). I'm always open to new opportunities and exciting challenges.
+Have a project idea or need assistance with your development tasks? Feel free to reach out via email at [aviralsingh3501@gmail.com](mailto:aviralsingh3501@gmail.com). I'm always open to new opportunities and exciting challenges.
 
 ---
 
