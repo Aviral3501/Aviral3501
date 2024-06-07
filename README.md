@@ -72,11 +72,11 @@ I'm not just a developer; I'm a problem solver dedicated to helping you achieve 
 
 <div align="center">
   <img src="/react.svg" alt="React.js" title="React.js" width="50">
-  <img src="/nextjs-icon-svgrepo-com.svg" alt="Next.js" title="Next.js" width="50">
+  <img src="/nextjs-icon-svgrepo-com (1)white.svg" alt="Next.js" title="Next.js" width="50">
   <img src="/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="50">
   <img src="postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" title="PostgreSQL" width="50">
   <img src="/prisma-svgrepo-com.svg" alt="Prisma" title="Prisma" width="50">
-  <img src="/tailwind-css-svgrepo-com.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50">
+  <img src="/tailwindcss-icon-white.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50">
   <img src="/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript" width="50">
   <img src="/react.svg" alt="TypeScript" title="TypeScript" width="50">
 </div>
