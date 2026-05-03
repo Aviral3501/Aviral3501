@@ -34,82 +34,142 @@
 
 ---
 
-## 🧱 My Tech Stack 
+## 🧱 My Tech Stack  
 
-<table>
+<br/>
+
+<!-- Row 1 -->
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+
+<td width="60%" align="center">
+
+<div align="center" style="width:100%;">
 
 ### 💻 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" width="100%" />
+
+</div>
 
 </td>
 
-<td align="center" width="50%">
+<td width="40%" align="center">
+
+<div align="center" style="width:100%;">
 
 ### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" width="100%" />
+
+</div>
 
 </td>
-</tr>
 
+</tr>
+</table>
+
+<br/>
+
+<!-- Row 2 -->
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+
+<td width="40%" align="center">
+
+<div align="center" style="width:100%;">
 
 ### 🗄️ Database  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" width="100%" />
+
+</div>
 
 </td>
 
-<td align="center" width="50%">
+<td width="60%" align="center">
+
+<div align="center" style="width:100%;">
 
 ### ⚡ DevOps / Tools  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" width="100%" />
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🚀 Projects  
+
+<br/>
+
+<!-- ⭐ Featured Project -->
+<table width="100%">
+<tr>
+<td valign="top">
+
+### 🧠 ConvoKit — AI Chatbot Platform  
+
+<img src="./convokit.png" width="100%" />
+
+**Multi-tenant AI chatbot platform with isolated deployments and secure dashboards**
+
+- Built tenant-based chatbot system with **JWT-secured dashboards**
+- Designed **GraphQL backend (StepZen + IBM API Connect)** with AI pipelines
+- Containerized services using **Docker for scalable execution**
+- Delivered lightweight hosted endpoints → improved frontend performance  
+
+🔗 https://convo-kit-ai-agent-chatbot-ibm.vercel.app/
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🚀 Projects
-
+<!-- 📦 Secondary Projects -->
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
 
-### 🧠 ConvoKit  
-AI Chatbot Platform  
+<td width="50%" valign="top">
 
-<img src="./convokit.png" width="100%" />
-
-🔗 https://convo-kit-ai-agent-chatbot-ibm.vercel.app/
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📊 TrackSta  
-CRM System  
+### 📊 TrackSta — CRM Platform  
 
 <img src="./tracksta.png" width="100%" />
+
+**End-to-end CRM managing leads, pipelines, and client workflows**
+
+- Built full sales lifecycle system with **role-based access control**
+- Designed **MongoDB schemas** with relations, soft deletes & audit logs
+- Developed **analytics dashboards with KPI tracking & visual insights**
 
 🔗 https://crm-project-college-frontend.onrender.com/
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 📝 GoDocs  
-Realtime Docs Editor  
+### 📝 GoDocs — Realtime Editor  
 
 <img src="./godocs.png" width="100%" />
+
+**Collaborative document editor with real-time synchronization**
+
+- Implemented **WebSocket-based live editing system**
+- Built conflict resolution + **threaded comments**
+- Added **workspace-level permissions** for structured collaboration  
 
 🔗 https://realtime-teams-docs-manager.vercel.app/sign-in
 
 </td>
+
 </tr>
 </table>
+
+<br/>
 
 ---
 
