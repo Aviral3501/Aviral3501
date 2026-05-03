@@ -28,7 +28,7 @@
 
 ---
 
-## 🧱 My Tech Stack (Bento Style)
+## 🧱 My Tech Stack 
 
 <table>
 <tr>
@@ -48,14 +48,14 @@
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 ### 🗄️ Database  
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### ⚡ DevOps / Tools  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" />
@@ -75,7 +75,7 @@
 ### 🧠 ConvoKit  
 AI Chatbot Platform  
 
-<img src="YOUR_CONVOKIT_IMAGE" width="100%" />
+<img src="./convokit.png" width="100%" />
 
 🔗 https://convo-kit-ai-agent-chatbot-ibm.vercel.app/
 
@@ -86,7 +86,7 @@ AI Chatbot Platform
 ### 📊 TrackSta  
 CRM System  
 
-<img src="YOUR_TRACKSTA_IMAGE" width="100%" />
+<img src="./tracksta.png" width="100%" />
 
 🔗 https://crm-project-college-frontend.onrender.com/
 
@@ -97,13 +97,14 @@ CRM System
 ### 📝 GoDocs  
 Realtime Docs Editor  
 
-<img src="YOUR_GODOCS_IMAGE" width="100%" />
+<img src="./godocs.png" width="100%" />
 
 🔗 https://realtime-teams-docs-manager.vercel.app/sign-in
 
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
